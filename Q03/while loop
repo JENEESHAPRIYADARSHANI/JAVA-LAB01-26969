@@ -1,0 +1,14 @@
+package com.mycompany.p022;
+public class P022 {
+
+    public static void main(String[] args) 
+    {
+        int i=0;
+        while(i<5)
+        {
+            System.out.println("Excuting Loop "+i);
+            i++;
+        }
+        
+    }
+}
